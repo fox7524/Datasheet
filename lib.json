@@ -1,0 +1,250 @@
+{
+  "1200W Booster": {
+    "desc": "High power DC-DC step-up converter.",
+    "category": "Power",
+    "files": {
+      "1200W Booster": {
+        "img": "1200w-booster.jpg",
+        "pdf": "1200w-booster.pdf"
+      }
+    }
+  },
+  "2N2222A": {
+    "desc": "NPN Bipolar Junction Transistor.",
+    "category": "Components",
+    "files": {
+      "2N2222A": {
+        "img": "2n2222a.jpg",
+        "pdf": "2n2222a.pdf"
+      }
+    }
+  },
+  "A4988": {
+    "desc": "DMOS Stepper Motor Driver with Translator.",
+    "category": "Motor Drivers",
+    "files": {
+      "A4988": {
+        "img": "a4988.jpg",
+        "pdf": "a4988.pdf"
+      }
+    }
+  },
+  "Arduino Mega": {
+    "desc": "ATmega2560 based development board.",
+    "category": "Microcontrollers",
+    "files": {
+      "Arduino Mega": {
+        "img": "arduino-mega.png",
+        "pdf": "arduino-mega.pdf"
+      }
+    }
+  },
+  "Arduino Nano": {
+    "desc": "ATmega328P based small development board.",
+    "category": "Microcontrollers",
+    "files": {
+      "Arduino Nano": {
+        "img": "arduino-nano.jpg",
+        "pdf": "arduino-nano.pdf"
+      }
+    }
+  },
+  "Arduino Pro Micro": {
+    "desc": "ATmega32U4 based board with native USB.",
+    "category": "Microcontrollers",
+    "files": {
+      "Arduino Pro Micro": {
+        "img": "arduino-pro-micro.png",
+        "pdf": "arduino-pro-micro.pdf"
+      }
+    }
+  },
+  "Arduino Pro Mini": {
+    "desc": "ATmega328P board for space-limited projects.",
+    "category": "Microcontrollers",
+    "files": {
+      "Arduino Pro Mini": {
+        "img": "arduino-pro-mini.jpg",
+        "pdf": "arduino-pro-mini.pdf"
+      }
+    }
+  },
+  "Arduino Uno": {
+    "desc": "Standard ATmega328P development board.",
+    "category": "Microcontrollers",
+    "files": {
+      "Arduino Uno": {
+        "img": "arduino-uno.png",
+        "pdf": "arduino-uno.pdf"
+      }
+    }
+  },
+  "BTS7960": {
+    "desc": "High current 43A Double H-Bridge Motor Driver.",
+    "category": "Motor Drivers",
+    "files": {
+      "BTS7960": {
+        "img": "bts7960.jpg",
+        "pdf": "bts7960.pdf"
+      }
+    }
+  },
+  "DRV8825": {
+    "desc": "Stepper Motor Driver with microstepping up to 1/32.",
+    "category": "Motor Drivers",
+    "files": {
+      "DRV8825": {
+        "img": "drv8825.png",
+        "pdf": "drv8825.pdf"
+      }
+    }
+  },
+  "ESP32-S3": {
+    "desc": "Next-gen dual-core MCU with AI acceleration.",
+    "category": "Microcontrollers",
+    "files": {
+      "ESP32-S3 DevKitC": {
+        "img": "esp32-s3-devkitc.jpg",
+        "pdf": "esp32-s3-devkitc.pdf"
+      },
+      "ESP32-S3": {
+        "img": "esp32-s3.png",
+        "pdf": "esp32-s3.pdf"
+      },
+      "ESP32-S3 N16R8": {
+        "img": "esp32-s3-nxr8.png",
+        "pdf": "esp32-s3-devkitc.pdf"
+      }
+    }
+  },
+  "ESP-WROOM-32": {
+    "desc": "Classic Wi-Fi + Bluetooth SoC module.",
+    "category": "Microcontrollers",
+    "files": {
+      "ESP-WROOM-32": {
+        "img": "esp32-s3-wroom.png",
+        "pdf": "esp32-s3-wroom.pdf"
+      }
+    }
+  },
+  "HC-SR04": {
+    "desc": "Ultrasonic ranging module.",
+    "category": "Sensors",
+    "files": {
+      "HC-SR04": {
+        "img": "hcsr04.png",
+        "pdf": "hcsr04.pdf"
+      }
+    }
+  },
+  "L298N": {
+    "desc": "Dual H-Bridge motor driver.",
+    "category": "Motor Drivers",
+    "files": {
+      "L298N": {
+        "img": "l298n.png",
+        "pdf": "l298n.pdf"
+      }
+    }
+  },
+  "L9110": {
+    "desc": "H-bridge motor driver for DC motors.",
+    "category": "Motor Drivers",
+    "files": {
+      "L9110": {
+        "img": "l9110.png",
+        "pdf": "l9110.pdf"
+      }
+    }
+  },
+  "LM2596": {
+    "desc": "DC-DC Step-Down (Buck) Voltage Regulator.",
+    "category": "Power",
+    "files": {
+      "LM2596": {
+        "img": "lm2596.jpg",
+        "pdf": "lm2596.pdf"
+      }
+    }
+  },
+  "LM358": {
+    "desc": "Dual operational amplifier.",
+    "category": "Components",
+    "files": {
+      "LM358": {
+        "img": "lm358.jpg",
+        "pdf": "lm358.pdf"
+      }
+    }
+  },
+  "MPU6050": {
+    "desc": "6-axis IMU (Gyro + Accelerometer).",
+    "category": "Sensors",
+    "files": {
+      "MPU6050": {
+        "img": "mpu6050.png",
+        "pdf": "mpu6050.pdf"
+      }
+    }
+  },
+  "NE555": {
+    "desc": "Precision timer/oscillator.",
+    "category": "Components",
+    "files": {
+      "NE555": {
+        "img": "ne555.png",
+        "pdf": "ne555.pdf"
+      }
+    }
+  },
+  "NodeMCU": {
+    "desc": "ESP8266 based development board.",
+    "category": "Microcontrollers",
+    "files": {
+      "NodeMCU V3": {
+        "img": "nodemcu-v3.png",
+        "pdf": "nodemcu-v3.pdf"
+      }
+    }
+  },
+  "QTR-1A": {
+    "desc": "Single reflectance sensor.",
+    "category": "Sensors",
+    "files": {
+      "QTR-1A": {
+        "img": "qtr-1a.jpeg",
+        "pdf": "qtr-1a.pdf"
+      }
+    }
+  },
+  "QTR-8A": {
+    "desc": "8-channel reflectance sensor array.",
+    "category": "Sensors",
+    "files": {
+      "QTR-8A": {
+        "img": "qtr-8a.jpg",
+        "pdf": "qtr-8a.pdf"
+      }
+    }
+  },
+  "Rotary Encoder": {
+    "desc": "Incremental rotary input module.",
+    "category": "Sensors",
+    "files": {
+      "Rotary Encoder": {
+        "img": "rotary-encoder.jpg",
+        "pdf": "rotary-encoder.pdf"
+      }
+    }
+  },
+  "TB6612FNG": {
+    "desc": "Dual DC motor driver module.",
+    "category": "Motor Drivers",
+    "files": {
+      "TB6612FNG": {
+        "img": "tb6612fng.png",
+        "pdf": "tb6612fng.pdf"
+      }
+    }
+  }
+}
