@@ -1566,5 +1566,14 @@
         "pdf": "sn74hc266.pdf"
       }
     }
+  },
+  "SN74HC368": {
+    "desc": "Auto-added datasheet for offline use.",
+    "category": "Components",
+    "files": {
+      "SN74HC368": {
+        "pdf": "sn74hc368.pdf"
+      }
+    }
   }
 }
