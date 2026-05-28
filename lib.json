@@ -1106,5 +1106,420 @@
         "pdf": "rotary-encoder.pdf"
       }
     }
+  },
+  "RPI4-PRODUCT-BRIEF": {
+    "desc": "Auto-added datasheet for offline use.",
+    "category": "Microcontrollers",
+    "files": {
+      "RPI4-PRODUCT-BRIEF": {
+        "pdf": "rpi4-product-brief.pdf",
+        "img": "rpi4-product-brief.png"
+      }
+    }
+  },
+  "RPI5-PRODUCT-BRIEF": {
+    "desc": "Auto-added datasheet for offline use.",
+    "category": "Microcontrollers",
+    "files": {
+      "RPI5-PRODUCT-BRIEF": {
+        "pdf": "rpi5-product-brief.pdf",
+        "img": "rpi5-product-brief.png"
+      }
+    }
+  },
+  "RP2040": {
+    "desc": "Auto-added datasheet for offline use.",
+    "category": "Microcontrollers",
+    "files": {
+      "RP2040": {
+        "pdf": "rp2040.pdf",
+        "img": "rp2040.png"
+      }
+    }
+  },
+  "RPI-PICO": {
+    "desc": "Auto-added datasheet for offline use.",
+    "category": "Microcontrollers",
+    "files": {
+      "RPI-PICO": {
+        "pdf": "rpi-pico.pdf",
+        "img": "rpi-pico.png"
+      }
+    }
+  },
+  "RPI-PICO-W": {
+    "desc": "Auto-added datasheet for offline use.",
+    "category": "Microcontrollers",
+    "files": {
+      "RPI-PICO-W": {
+        "pdf": "rpi-pico-w.pdf",
+        "img": "rpi-pico-w.png"
+      }
+    }
+  },
+  "ESP32": {
+    "desc": "Auto-added datasheet for offline use.",
+    "category": "Microcontrollers",
+    "files": {
+      "ESP32": {
+        "pdf": "esp32.pdf",
+        "img": "esp32.png"
+      }
+    }
+  },
+  "ESP32-S2": {
+    "desc": "Auto-added datasheet for offline use.",
+    "category": "Microcontrollers",
+    "files": {
+      "ESP32-S2": {
+        "pdf": "esp32-s2.pdf",
+        "img": "esp32-s2.png"
+      }
+    }
+  },
+  "ESP32-C3": {
+    "desc": "Auto-added datasheet for offline use.",
+    "category": "Microcontrollers",
+    "files": {
+      "ESP32-C3": {
+        "pdf": "esp32-c3.pdf",
+        "img": "esp32-c3.png"
+      }
+    }
+  },
+  "ESP32-C6": {
+    "desc": "Auto-added datasheet for offline use.",
+    "category": "Microcontrollers",
+    "files": {
+      "ESP32-C6": {
+        "pdf": "esp32-c6.pdf",
+        "img": "esp32-c6.png"
+      }
+    }
+  },
+  "JETSON-NANO-DEVKIT": {
+    "desc": "Auto-added datasheet for offline use.",
+    "category": "Microcontrollers",
+    "files": {
+      "JETSON-NANO-DEVKIT": {
+        "pdf": "jetson-nano-devkit.pdf",
+        "img": "jetson-nano-devkit.png"
+      }
+    }
+  },
+  "STM32F103C8": {
+    "desc": "Auto-added datasheet for offline use.",
+    "category": "Microcontrollers",
+    "files": {
+      "STM32F103C8": {
+        "pdf": "stm32f103c8.pdf",
+        "img": "stm32f103c8.png"
+      }
+    }
+  },
+  "STM32F103RB": {
+    "desc": "Auto-added datasheet for offline use.",
+    "category": "Microcontrollers",
+    "files": {
+      "STM32F103RB": {
+        "pdf": "stm32f103rb.pdf",
+        "img": "stm32f103rb.png"
+      }
+    }
+  },
+  "STM32F401CC": {
+    "desc": "Auto-added datasheet for offline use.",
+    "category": "Microcontrollers",
+    "files": {
+      "STM32F401CC": {
+        "pdf": "stm32f401cc.pdf",
+        "img": "stm32f401cc.png"
+      }
+    }
+  },
+  "STM32F405RG": {
+    "desc": "Auto-added datasheet for offline use.",
+    "category": "Microcontrollers",
+    "files": {
+      "STM32F405RG": {
+        "pdf": "stm32f405rg.pdf",
+        "img": "stm32f405rg.png"
+      }
+    }
+  },
+  "STM32F407VG": {
+    "desc": "Auto-added datasheet for offline use.",
+    "category": "Microcontrollers",
+    "files": {
+      "STM32F407VG": {
+        "pdf": "stm32f407vg.pdf",
+        "img": "stm32f407vg.png"
+      }
+    }
+  },
+  "STM32F411CE": {
+    "desc": "Auto-added datasheet for offline use.",
+    "category": "Microcontrollers",
+    "files": {
+      "STM32F411CE": {
+        "pdf": "stm32f411ce.pdf",
+        "img": "stm32f411ce.png"
+      }
+    }
+  },
+  "STM32F446RE": {
+    "desc": "Auto-added datasheet for offline use.",
+    "category": "Microcontrollers",
+    "files": {
+      "STM32F446RE": {
+        "pdf": "stm32f446re.pdf",
+        "img": "stm32f446re.png"
+      }
+    }
+  },
+  "STM32G031K8": {
+    "desc": "Auto-added datasheet for offline use.",
+    "category": "Microcontrollers",
+    "files": {
+      "STM32G031K8": {
+        "pdf": "stm32g031k8.pdf",
+        "img": "stm32g031k8.png"
+      }
+    }
+  },
+  "STM32G0B1RE": {
+    "desc": "Auto-added datasheet for offline use.",
+    "category": "Microcontrollers",
+    "files": {
+      "STM32G0B1RE": {
+        "pdf": "stm32g0b1re.pdf",
+        "img": "stm32g0b1re.png"
+      }
+    }
+  },
+  "STM32G474RE": {
+    "desc": "Auto-added datasheet for offline use.",
+    "category": "Microcontrollers",
+    "files": {
+      "STM32G474RE": {
+        "pdf": "stm32g474re.pdf"
+      }
+    }
+  },
+  "STM32H743ZI": {
+    "desc": "Auto-added datasheet for offline use.",
+    "category": "Microcontrollers",
+    "files": {
+      "STM32H743ZI": {
+        "pdf": "stm32h743zi.pdf"
+      }
+    }
+  },
+  "STM32L031K6": {
+    "desc": "Auto-added datasheet for offline use.",
+    "category": "Microcontrollers",
+    "files": {
+      "STM32L031K6": {
+        "pdf": "stm32l031k6.pdf"
+      }
+    }
+  },
+  "STM32L072CZ": {
+    "desc": "Auto-added datasheet for offline use.",
+    "category": "Microcontrollers",
+    "files": {
+      "STM32L072CZ": {
+        "pdf": "stm32l072cz.pdf"
+      }
+    }
+  },
+  "STM32L476RG": {
+    "desc": "Auto-added datasheet for offline use.",
+    "category": "Microcontrollers",
+    "files": {
+      "STM32L476RG": {
+        "pdf": "stm32l476rg.pdf"
+      }
+    }
+  },
+  "STM32WB55RG": {
+    "desc": "Auto-added datasheet for offline use.",
+    "category": "Microcontrollers",
+    "files": {
+      "STM32WB55RG": {
+        "pdf": "stm32wb55rg.pdf"
+      }
+    }
+  },
+  "DRV8833": {
+    "desc": "Auto-added datasheet for offline use.",
+    "category": "Motor Drivers",
+    "files": {
+      "DRV8833": {
+        "pdf": "drv8833.pdf"
+      }
+    }
+  },
+  "DRV8871": {
+    "desc": "Auto-added datasheet for offline use.",
+    "category": "Motor Drivers",
+    "files": {
+      "DRV8871": {
+        "pdf": "drv8871.pdf"
+      }
+    }
+  },
+  "DRV8876": {
+    "desc": "Auto-added datasheet for offline use.",
+    "category": "Motor Drivers",
+    "files": {
+      "DRV8876": {
+        "pdf": "drv8876.pdf"
+      }
+    }
+  },
+  "DRV8835": {
+    "desc": "Auto-added datasheet for offline use.",
+    "category": "Motor Drivers",
+    "files": {
+      "DRV8835": {
+        "pdf": "drv8835.pdf"
+      }
+    }
+  },
+  "TPS54202": {
+    "desc": "Auto-added datasheet for offline use.",
+    "category": "Power",
+    "files": {
+      "TPS54202": {
+        "pdf": "tps54202.pdf"
+      }
+    }
+  },
+  "TPS5430": {
+    "desc": "Auto-added datasheet for offline use.",
+    "category": "Power",
+    "files": {
+      "TPS5430": {
+        "pdf": "tps5430.pdf"
+      }
+    }
+  },
+  "TPS62160": {
+    "desc": "Auto-added datasheet for offline use.",
+    "category": "Power",
+    "files": {
+      "TPS62160": {
+        "pdf": "tps62160.pdf"
+      }
+    }
+  },
+  "TPS63020": {
+    "desc": "Auto-added datasheet for offline use.",
+    "category": "Power",
+    "files": {
+      "TPS63020": {
+        "pdf": "tps63020.pdf"
+      }
+    }
+  },
+  "TPS61023": {
+    "desc": "Auto-added datasheet for offline use.",
+    "category": "Power",
+    "files": {
+      "TPS61023": {
+        "pdf": "tps61023.pdf"
+      }
+    }
+  },
+  "LM2576": {
+    "desc": "Auto-added datasheet for offline use.",
+    "category": "Power",
+    "files": {
+      "LM2576": {
+        "pdf": "lm2576.pdf"
+      }
+    }
+  },
+  "LM317": {
+    "desc": "Auto-added datasheet for offline use.",
+    "category": "Power",
+    "files": {
+      "LM317": {
+        "pdf": "lm317.pdf"
+      }
+    }
+  },
+  "LM1117": {
+    "desc": "Auto-added datasheet for offline use.",
+    "category": "Power",
+    "files": {
+      "LM1117": {
+        "pdf": "lm1117.pdf"
+      }
+    }
+  },
+  "LM324": {
+    "desc": "Auto-added datasheet for offline use.",
+    "category": "Components",
+    "files": {
+      "LM324": {
+        "pdf": "lm324.pdf"
+      }
+    }
+  },
+  "LM393": {
+    "desc": "Auto-added datasheet for offline use.",
+    "category": "Components",
+    "files": {
+      "LM393": {
+        "pdf": "lm393.pdf"
+      }
+    }
+  },
+  "LM339": {
+    "desc": "Auto-added datasheet for offline use.",
+    "category": "Components",
+    "files": {
+      "LM339": {
+        "pdf": "lm339.pdf"
+      }
+    }
+  },
+  "LM555": {
+    "desc": "Auto-added datasheet for offline use.",
+    "category": "Components",
+    "files": {
+      "LM555": {
+        "pdf": "lm555.pdf"
+      }
+    }
+  },
+  "SN74HC03": {
+    "desc": "Auto-added datasheet for offline use.",
+    "category": "Components",
+    "files": {
+      "SN74HC03": {
+        "pdf": "sn74hc03.pdf"
+      }
+    }
+  },
+  "SN74HC05": {
+    "desc": "Auto-added datasheet for offline use.",
+    "category": "Components",
+    "files": {
+      "SN74HC05": {
+        "pdf": "sn74hc05.pdf"
+      }
+    }
+  },
+  "SN74HC27": {
+    "desc": "Auto-added datasheet for offline use.",
+    "category": "Components",
+    "files": {
+      "SN74HC27": {
+        "pdf": "sn74hc27.pdf"
+      }
+    }
   }
 }
