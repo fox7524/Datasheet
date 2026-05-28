@@ -246,5 +246,865 @@
         "pdf": "tb6612fng.pdf"
       }
     }
+  },
+  "SN74HC00": {
+    "desc": "Auto-downloaded datasheet (TI) for offline use.",
+    "category": "Components",
+    "files": {
+      "SN74HC00": {
+        "img": "sn74hc00.png",
+        "pdf": "sn74hc00.pdf"
+      }
+    }
+  },
+  "SN74HC02": {
+    "desc": "Auto-downloaded datasheet (TI) for offline use.",
+    "category": "Components",
+    "files": {
+      "SN74HC02": {
+        "img": "sn74hc02.png",
+        "pdf": "sn74hc02.pdf"
+      }
+    }
+  },
+  "SN74HC04": {
+    "desc": "Auto-downloaded datasheet (TI) for offline use.",
+    "category": "Components",
+    "files": {
+      "SN74HC04": {
+        "img": "sn74hc04.png",
+        "pdf": "sn74hc04.pdf"
+      }
+    }
+  },
+  "SN74HC08": {
+    "desc": "Auto-downloaded datasheet (TI) for offline use.",
+    "category": "Components",
+    "files": {
+      "SN74HC08": {
+        "img": "sn74hc08.png",
+        "pdf": "sn74hc08.pdf"
+      }
+    }
+  },
+  "SN74HC10": {
+    "desc": "Auto-downloaded datasheet (TI) for offline use.",
+    "category": "Components",
+    "files": {
+      "SN74HC10": {
+        "img": "sn74hc10.png",
+        "pdf": "sn74hc10.pdf"
+      }
+    }
+  },
+  "SN74HC109": {
+    "desc": "Auto-downloaded datasheet (TI) for offline use.",
+    "category": "Components",
+    "files": {
+      "SN74HC109": {
+        "img": "sn74hc109.png",
+        "pdf": "sn74hc109.pdf"
+      }
+    }
+  },
+  "SN74HC11": {
+    "desc": "Auto-downloaded datasheet (TI) for offline use.",
+    "category": "Components",
+    "files": {
+      "SN74HC11": {
+        "img": "sn74hc11.png",
+        "pdf": "sn74hc11.pdf"
+      }
+    }
+  },
+  "SN74HC112": {
+    "desc": "Auto-downloaded datasheet (TI) for offline use.",
+    "category": "Components",
+    "files": {
+      "SN74HC112": {
+        "img": "sn74hc112.png",
+        "pdf": "sn74hc112.pdf"
+      }
+    }
+  },
+  "SN74HC125": {
+    "desc": "Auto-downloaded datasheet (TI) for offline use.",
+    "category": "Components",
+    "files": {
+      "SN74HC125": {
+        "img": "sn74hc125.png",
+        "pdf": "sn74hc125.pdf"
+      }
+    }
+  },
+  "SN74HC126": {
+    "desc": "Auto-downloaded datasheet (TI) for offline use.",
+    "category": "Components",
+    "files": {
+      "SN74HC126": {
+        "img": "sn74hc126.png",
+        "pdf": "sn74hc126.pdf"
+      }
+    }
+  },
+  "SN74HC132": {
+    "desc": "Auto-downloaded datasheet (TI) for offline use.",
+    "category": "Components",
+    "files": {
+      "SN74HC132": {
+        "img": "sn74hc132.png",
+        "pdf": "sn74hc132.pdf"
+      }
+    }
+  },
+  "SN74HC138": {
+    "desc": "Auto-downloaded datasheet (TI) for offline use.",
+    "category": "Components",
+    "files": {
+      "SN74HC138": {
+        "img": "sn74hc138.png",
+        "pdf": "sn74hc138.pdf"
+      }
+    }
+  },
+  "SN74HC139": {
+    "desc": "Auto-downloaded datasheet (TI) for offline use.",
+    "category": "Components",
+    "files": {
+      "SN74HC139": {
+        "img": "sn74hc139.png",
+        "pdf": "sn74hc139.pdf"
+      }
+    }
+  },
+  "SN74HC14": {
+    "desc": "Auto-downloaded datasheet (TI) for offline use.",
+    "category": "Components",
+    "files": {
+      "SN74HC14": {
+        "img": "sn74hc14.png",
+        "pdf": "sn74hc14.pdf"
+      }
+    }
+  },
+  "SN74HC148": {
+    "desc": "Auto-downloaded datasheet (TI) for offline use.",
+    "category": "Components",
+    "files": {
+      "SN74HC148": {
+        "img": "sn74hc148.png",
+        "pdf": "sn74hc148.pdf"
+      }
+    }
+  },
+  "SN74HC151": {
+    "desc": "Auto-downloaded datasheet (TI) for offline use.",
+    "category": "Components",
+    "files": {
+      "SN74HC151": {
+        "img": "sn74hc151.png",
+        "pdf": "sn74hc151.pdf"
+      }
+    }
+  },
+  "SN74HC153": {
+    "desc": "Auto-downloaded datasheet (TI) for offline use.",
+    "category": "Components",
+    "files": {
+      "SN74HC153": {
+        "img": "sn74hc153.png",
+        "pdf": "sn74hc153.pdf"
+      }
+    }
+  },
+  "SN74HC157": {
+    "desc": "Auto-downloaded datasheet (TI) for offline use.",
+    "category": "Components",
+    "files": {
+      "SN74HC157": {
+        "img": "sn74hc157.png",
+        "pdf": "sn74hc157.pdf"
+      }
+    }
+  },
+  "SN74HC158": {
+    "desc": "Auto-downloaded datasheet (TI) for offline use.",
+    "category": "Components",
+    "files": {
+      "SN74HC158": {
+        "img": "sn74hc158.png",
+        "pdf": "sn74hc158.pdf"
+      }
+    }
+  },
+  "SN74HC161": {
+    "desc": "Auto-downloaded datasheet (TI) for offline use.",
+    "category": "Components",
+    "files": {
+      "SN74HC161": {
+        "img": "sn74hc161.png",
+        "pdf": "sn74hc161.pdf"
+      }
+    }
+  },
+  "SN74HC163": {
+    "desc": "Auto-downloaded datasheet (TI) for offline use.",
+    "category": "Components",
+    "files": {
+      "SN74HC163": {
+        "img": "sn74hc163.png",
+        "pdf": "sn74hc163.pdf"
+      }
+    }
+  },
+  "SN74HC164": {
+    "desc": "Auto-downloaded datasheet (TI) for offline use.",
+    "category": "Components",
+    "files": {
+      "SN74HC164": {
+        "img": "sn74hc164.png",
+        "pdf": "sn74hc164.pdf"
+      }
+    }
+  },
+  "SN74HC165": {
+    "desc": "Auto-downloaded datasheet (TI) for offline use.",
+    "category": "Components",
+    "files": {
+      "SN74HC165": {
+        "img": "sn74hc165.png",
+        "pdf": "sn74hc165.pdf"
+      }
+    }
+  },
+  "SN74HC166": {
+    "desc": "Auto-downloaded datasheet (TI) for offline use.",
+    "category": "Components",
+    "files": {
+      "SN74HC166": {
+        "img": "sn74hc166.png",
+        "pdf": "sn74hc166.pdf"
+      }
+    }
+  },
+  "SN74HC174": {
+    "desc": "Auto-downloaded datasheet (TI) for offline use.",
+    "category": "Components",
+    "files": {
+      "SN74HC174": {
+        "img": "sn74hc174.png",
+        "pdf": "sn74hc174.pdf"
+      }
+    }
+  },
+  "SN74HC175": {
+    "desc": "Auto-downloaded datasheet (TI) for offline use.",
+    "category": "Components",
+    "files": {
+      "SN74HC175": {
+        "img": "sn74hc175.png",
+        "pdf": "sn74hc175.pdf"
+      }
+    }
+  },
+  "SN74HC191": {
+    "desc": "Auto-downloaded datasheet (TI) for offline use.",
+    "category": "Components",
+    "files": {
+      "SN74HC191": {
+        "img": "sn74hc191.png",
+        "pdf": "sn74hc191.pdf"
+      }
+    }
+  },
+  "SN74HC193": {
+    "desc": "Auto-downloaded datasheet (TI) for offline use.",
+    "category": "Components",
+    "files": {
+      "SN74HC193": {
+        "img": "sn74hc193.png",
+        "pdf": "sn74hc193.pdf"
+      }
+    }
+  },
+  "SN74HC20": {
+    "desc": "Auto-downloaded datasheet (TI) for offline use.",
+    "category": "Components",
+    "files": {
+      "SN74HC20": {
+        "img": "sn74hc20.png",
+        "pdf": "sn74hc20.pdf"
+      }
+    }
+  },
+  "SN74HC21": {
+    "desc": "Auto-downloaded datasheet (TI) for offline use.",
+    "category": "Components",
+    "files": {
+      "SN74HC21": {
+        "img": "sn74hc21.png",
+        "pdf": "sn74hc21.pdf"
+      }
+    }
+  },
+  "SN74HC240": {
+    "desc": "Auto-downloaded datasheet (TI) for offline use.",
+    "category": "Components",
+    "files": {
+      "SN74HC240": {
+        "img": "sn74hc240.png",
+        "pdf": "sn74hc240.pdf"
+      }
+    }
+  },
+  "SN74HC241": {
+    "desc": "Auto-downloaded datasheet (TI) for offline use.",
+    "category": "Components",
+    "files": {
+      "SN74HC241": {
+        "img": "sn74hc241.png",
+        "pdf": "sn74hc241.pdf"
+      }
+    }
+  },
+  "SN74HC244": {
+    "desc": "Auto-downloaded datasheet (TI) for offline use.",
+    "category": "Components",
+    "files": {
+      "SN74HC244": {
+        "img": "sn74hc244.png",
+        "pdf": "sn74hc244.pdf"
+      }
+    }
+  },
+  "SN74HC245": {
+    "desc": "Auto-downloaded datasheet (TI) for offline use.",
+    "category": "Components",
+    "files": {
+      "SN74HC245": {
+        "img": "sn74hc245.png",
+        "pdf": "sn74hc245.pdf"
+      }
+    }
+  },
+  "SN74HC259": {
+    "desc": "Auto-downloaded datasheet (TI) for offline use.",
+    "category": "Components",
+    "files": {
+      "SN74HC259": {
+        "img": "sn74hc259.png",
+        "pdf": "sn74hc259.pdf"
+      }
+    }
+  },
+  "SN74HC273": {
+    "desc": "Auto-downloaded datasheet (TI) for offline use.",
+    "category": "Components",
+    "files": {
+      "SN74HC273": {
+        "img": "sn74hc273.png",
+        "pdf": "sn74hc273.pdf"
+      }
+    }
+  },
+  "SN74HC32": {
+    "desc": "Auto-downloaded datasheet (TI) for offline use.",
+    "category": "Components",
+    "files": {
+      "SN74HC32": {
+        "img": "sn74hc32.png",
+        "pdf": "sn74hc32.pdf"
+      }
+    }
+  },
+  "SN74HC365": {
+    "desc": "Auto-downloaded datasheet (TI) for offline use.",
+    "category": "Components",
+    "files": {
+      "SN74HC365": {
+        "img": "sn74hc365.png",
+        "pdf": "sn74hc365.pdf"
+      }
+    }
+  },
+  "SN74HC367": {
+    "desc": "Auto-downloaded datasheet (TI) for offline use.",
+    "category": "Components",
+    "files": {
+      "SN74HC367": {
+        "img": "sn74hc367.png",
+        "pdf": "sn74hc367.pdf"
+      }
+    }
+  },
+  "SN74HC373": {
+    "desc": "Auto-downloaded datasheet (TI) for offline use.",
+    "category": "Components",
+    "files": {
+      "SN74HC373": {
+        "img": "sn74hc373.png",
+        "pdf": "sn74hc373.pdf"
+      }
+    }
+  },
+  "SN74HC374": {
+    "desc": "Auto-downloaded datasheet (TI) for offline use.",
+    "category": "Components",
+    "files": {
+      "SN74HC374": {
+        "img": "sn74hc374.png",
+        "pdf": "sn74hc374.pdf"
+      }
+    }
+  },
+  "SN74HC377": {
+    "desc": "Auto-downloaded datasheet (TI) for offline use.",
+    "category": "Components",
+    "files": {
+      "SN74HC377": {
+        "img": "sn74hc377.png",
+        "pdf": "sn74hc377.pdf"
+      }
+    }
+  },
+  "SN74HC393": {
+    "desc": "Auto-downloaded datasheet (TI) for offline use.",
+    "category": "Components",
+    "files": {
+      "SN74HC393": {
+        "img": "sn74hc393.png",
+        "pdf": "sn74hc393.pdf"
+      }
+    }
+  },
+  "SN74HC4040": {
+    "desc": "Auto-downloaded datasheet (TI) for offline use.",
+    "category": "Components",
+    "files": {
+      "SN74HC4040": {
+        "img": "sn74hc4040.png",
+        "pdf": "sn74hc4040.pdf"
+      }
+    }
+  },
+  "SN74HC4060": {
+    "desc": "Auto-downloaded datasheet (TI) for offline use.",
+    "category": "Components",
+    "files": {
+      "SN74HC4060": {
+        "img": "sn74hc4060.png",
+        "pdf": "sn74hc4060.pdf"
+      }
+    }
+  },
+  "SN74HC4066": {
+    "desc": "Auto-downloaded datasheet (TI) for offline use.",
+    "category": "Components",
+    "files": {
+      "SN74HC4066": {
+        "img": "sn74hc4066.png",
+        "pdf": "sn74hc4066.pdf"
+      }
+    }
+  },
+  "SN74HC42": {
+    "desc": "Auto-downloaded datasheet (TI) for offline use.",
+    "category": "Components",
+    "files": {
+      "SN74HC42": {
+        "img": "sn74hc42.png",
+        "pdf": "sn74hc42.pdf"
+      }
+    }
+  },
+  "SN74HC595": {
+    "desc": "Auto-downloaded datasheet (TI) for offline use.",
+    "category": "Components",
+    "files": {
+      "SN74HC595": {
+        "img": "sn74hc595.png",
+        "pdf": "sn74hc595.pdf"
+      }
+    }
+  },
+  "SN74HC688": {
+    "desc": "Auto-downloaded datasheet (TI) for offline use.",
+    "category": "Components",
+    "files": {
+      "SN74HC688": {
+        "img": "sn74hc688.png",
+        "pdf": "sn74hc688.pdf"
+      }
+    }
+  },
+  "SN74HC74": {
+    "desc": "Auto-downloaded datasheet (TI) for offline use.",
+    "category": "Components",
+    "files": {
+      "SN74HC74": {
+        "img": "sn74hc74.png",
+        "pdf": "sn74hc74.pdf"
+      }
+    }
+  },
+  "SN74HC86": {
+    "desc": "Auto-downloaded datasheet (TI) for offline use.",
+    "category": "Components",
+    "files": {
+      "SN74HC86": {
+        "img": "sn74hc86.png",
+        "pdf": "sn74hc86.pdf"
+      }
+    }
+  },
+  "CD4011B": {
+    "desc": "Auto-downloaded datasheet (TI) for offline use.",
+    "category": "Components",
+    "files": {
+      "CD4011B": {
+        "img": "cd4011b.png",
+        "pdf": "cd4011b.pdf"
+      }
+    }
+  },
+  "CD4012B": {
+    "desc": "Auto-downloaded datasheet (TI) for offline use.",
+    "category": "Components",
+    "files": {
+      "CD4012B": {
+        "img": "cd4012b.png",
+        "pdf": "cd4012b.pdf"
+      }
+    }
+  },
+  "CD4013B": {
+    "desc": "Auto-downloaded datasheet (TI) for offline use.",
+    "category": "Components",
+    "files": {
+      "CD4013B": {
+        "img": "cd4013b.png",
+        "pdf": "cd4013b.pdf"
+      }
+    }
+  },
+  "CD4015B": {
+    "desc": "Auto-downloaded datasheet (TI) for offline use.",
+    "category": "Components",
+    "files": {
+      "CD4015B": {
+        "img": "cd4015b.png",
+        "pdf": "cd4015b.pdf"
+      }
+    }
+  },
+  "CD4017B": {
+    "desc": "Auto-downloaded datasheet (TI) for offline use.",
+    "category": "Components",
+    "files": {
+      "CD4017B": {
+        "img": "cd4017b.png",
+        "pdf": "cd4017b.pdf"
+      }
+    }
+  },
+  "CD4020B": {
+    "desc": "Auto-downloaded datasheet (TI) for offline use.",
+    "category": "Components",
+    "files": {
+      "CD4020B": {
+        "img": "cd4020b.png",
+        "pdf": "cd4020b.pdf"
+      }
+    }
+  },
+  "CD4021B": {
+    "desc": "Auto-downloaded datasheet (TI) for offline use.",
+    "category": "Components",
+    "files": {
+      "CD4021B": {
+        "img": "cd4021b.png",
+        "pdf": "cd4021b.pdf"
+      }
+    }
+  },
+  "CD4022B": {
+    "desc": "Auto-downloaded datasheet (TI) for offline use.",
+    "category": "Components",
+    "files": {
+      "CD4022B": {
+        "img": "cd4022b.png",
+        "pdf": "cd4022b.pdf"
+      }
+    }
+  },
+  "CD4023B": {
+    "desc": "Auto-downloaded datasheet (TI) for offline use.",
+    "category": "Components",
+    "files": {
+      "CD4023B": {
+        "img": "cd4023b.png",
+        "pdf": "cd4023b.pdf"
+      }
+    }
+  },
+  "CD4024B": {
+    "desc": "Auto-downloaded datasheet (TI) for offline use.",
+    "category": "Components",
+    "files": {
+      "CD4024B": {
+        "img": "cd4024b.png",
+        "pdf": "cd4024b.pdf"
+      }
+    }
+  },
+  "CD4026B": {
+    "desc": "Auto-downloaded datasheet (TI) for offline use.",
+    "category": "Components",
+    "files": {
+      "CD4026B": {
+        "img": "cd4026b.png",
+        "pdf": "cd4026b.pdf"
+      }
+    }
+  },
+  "CD4027B": {
+    "desc": "Auto-downloaded datasheet (TI) for offline use.",
+    "category": "Components",
+    "files": {
+      "CD4027B": {
+        "img": "cd4027b.png",
+        "pdf": "cd4027b.pdf"
+      }
+    }
+  },
+  "CD4028B": {
+    "desc": "Auto-downloaded datasheet (TI) for offline use.",
+    "category": "Components",
+    "files": {
+      "CD4028B": {
+        "img": "cd4028b.png",
+        "pdf": "cd4028b.pdf"
+      }
+    }
+  },
+  "CD4029B": {
+    "desc": "Auto-downloaded datasheet (TI) for offline use.",
+    "category": "Components",
+    "files": {
+      "CD4029B": {
+        "img": "cd4029b.png",
+        "pdf": "cd4029b.pdf"
+      }
+    }
+  },
+  "CD4040B": {
+    "desc": "Auto-downloaded datasheet (TI) for offline use.",
+    "category": "Components",
+    "files": {
+      "CD4040B": {
+        "img": "cd4040b.png",
+        "pdf": "cd4040b.pdf"
+      }
+    }
+  },
+  "CD4047B": {
+    "desc": "Auto-downloaded datasheet (TI) for offline use.",
+    "category": "Components",
+    "files": {
+      "CD4047B": {
+        "img": "cd4047b.png",
+        "pdf": "cd4047b.pdf"
+      }
+    }
+  },
+  "CD4050B": {
+    "desc": "Auto-downloaded datasheet (TI) for offline use.",
+    "category": "Components",
+    "files": {
+      "CD4050B": {
+        "img": "cd4050b.png",
+        "pdf": "cd4050b.pdf"
+      }
+    }
+  },
+  "CD4051B": {
+    "desc": "Auto-downloaded datasheet (TI) for offline use.",
+    "category": "Components",
+    "files": {
+      "CD4051B": {
+        "img": "cd4051b.png",
+        "pdf": "cd4051b.pdf"
+      }
+    }
+  },
+  "CD4052B": {
+    "desc": "Auto-downloaded datasheet (TI) for offline use.",
+    "category": "Components",
+    "files": {
+      "CD4052B": {
+        "img": "cd4052b.png",
+        "pdf": "cd4052b.pdf"
+      }
+    }
+  },
+  "CD4053B": {
+    "desc": "Auto-downloaded datasheet (TI) for offline use.",
+    "category": "Components",
+    "files": {
+      "CD4053B": {
+        "img": "cd4053b.png",
+        "pdf": "cd4053b.pdf"
+      }
+    }
+  },
+  "CD4060B": {
+    "desc": "Auto-downloaded datasheet (TI) for offline use.",
+    "category": "Components",
+    "files": {
+      "CD4060B": {
+        "img": "cd4060b.png",
+        "pdf": "cd4060b.pdf"
+      }
+    }
+  },
+  "CD4066B": {
+    "desc": "Auto-downloaded datasheet (TI) for offline use.",
+    "category": "Components",
+    "files": {
+      "CD4066B": {
+        "img": "cd4066b.png",
+        "pdf": "cd4066b.pdf"
+      }
+    }
+  },
+  "CD4070B": {
+    "desc": "Auto-downloaded datasheet (TI) for offline use.",
+    "category": "Components",
+    "files": {
+      "CD4070B": {
+        "img": "cd4070b.png",
+        "pdf": "cd4070b.pdf"
+      }
+    }
+  },
+  "CD4071B": {
+    "desc": "Auto-downloaded datasheet (TI) for offline use.",
+    "category": "Components",
+    "files": {
+      "CD4071B": {
+        "img": "cd4071b.png",
+        "pdf": "cd4071b.pdf"
+      }
+    }
+  },
+  "ARDUINO-MEGA": {
+    "desc": "Auto-downloaded datasheet (TI) for offline use.",
+    "category": "Microcontrollers",
+    "files": {
+      "ARDUINO-MEGA": {
+        "img": "arduino-mega.png",
+        "pdf": "arduino-mega.pdf"
+      }
+    }
+  },
+  "ARDUINO-NANO": {
+    "desc": "Auto-downloaded datasheet (TI) for offline use.",
+    "category": "Microcontrollers",
+    "files": {
+      "ARDUINO-NANO": {
+        "img": "arduino-nano.png",
+        "pdf": "arduino-nano.pdf"
+      }
+    }
+  },
+  "ARDUINO-PRO-MICRO": {
+    "desc": "Auto-downloaded datasheet (TI) for offline use.",
+    "category": "Microcontrollers",
+    "files": {
+      "ARDUINO-PRO-MICRO": {
+        "img": "arduino-pro-micro.png",
+        "pdf": "arduino-pro-micro.pdf"
+      }
+    }
+  },
+  "ARDUINO-PRO-MINI": {
+    "desc": "Auto-downloaded datasheet (TI) for offline use.",
+    "category": "Microcontrollers",
+    "files": {
+      "ARDUINO-PRO-MINI": {
+        "img": "arduino-pro-mini.png",
+        "pdf": "arduino-pro-mini.pdf"
+      }
+    }
+  },
+  "ARDUINO-UNO": {
+    "desc": "Auto-downloaded datasheet (TI) for offline use.",
+    "category": "Microcontrollers",
+    "files": {
+      "ARDUINO-UNO": {
+        "img": "arduino-uno.png",
+        "pdf": "arduino-uno.pdf"
+      }
+    }
+  },
+  "ESP32-S3-DEVKITC": {
+    "desc": "Auto-downloaded datasheet (TI) for offline use.",
+    "category": "Microcontrollers",
+    "files": {
+      "ESP32-S3-DEVKITC": {
+        "img": "esp32-s3-devkitc.png",
+        "pdf": "esp32-s3-devkitc.pdf"
+      }
+    }
+  },
+  "ESP32-S3-WROOM": {
+    "desc": "Auto-downloaded datasheet (TI) for offline use.",
+    "category": "Microcontrollers",
+    "files": {
+      "ESP32-S3-WROOM": {
+        "img": "esp32-s3-wroom.png",
+        "pdf": "esp32-s3-wroom.pdf"
+      }
+    }
+  },
+  "NODEMCU-V3": {
+    "desc": "Auto-downloaded datasheet (TI) for offline use.",
+    "category": "Microcontrollers",
+    "files": {
+      "NODEMCU-V3": {
+        "img": "nodemcu-v3.png",
+        "pdf": "nodemcu-v3.pdf"
+      }
+    }
+  },
+  "1200W-BOOSTER": {
+    "desc": "Auto-downloaded datasheet (TI) for offline use.",
+    "category": "Power",
+    "files": {
+      "1200W-BOOSTER": {
+        "img": "1200w-booster.png",
+        "pdf": "1200w-booster.pdf"
+      }
+    }
+  },
+  "HCSR04": {
+    "desc": "Auto-downloaded datasheet (TI) for offline use.",
+    "category": "Sensors",
+    "files": {
+      "HCSR04": {
+        "img": "hcsr04.png",
+        "pdf": "hcsr04.pdf"
+      }
+    }
+  },
+  "ROTARY-ENCODER": {
+    "desc": "Auto-downloaded datasheet (TI) for offline use.",
+    "category": "Sensors",
+    "files": {
+      "ROTARY-ENCODER": {
+        "img": "rotary-encoder.png",
+        "pdf": "rotary-encoder.pdf"
+      }
+    }
   }
 }
