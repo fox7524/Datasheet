@@ -1575,5 +1575,851 @@
         "pdf": "sn74hc368.pdf"
       }
     }
+  },
+  "SN74HC540": {
+    "desc": "Auto-added datasheet for offline use.",
+    "category": "Components",
+    "files": {
+      "SN74HC540": {
+        "pdf": "sn74hc540.pdf"
+      }
+    }
+  },
+  "SN74HC541": {
+    "desc": "Auto-added datasheet for offline use.",
+    "category": "Components",
+    "files": {
+      "SN74HC541": {
+        "pdf": "sn74hc541.pdf"
+      }
+    }
+  },
+  "SN74HC563": {
+    "desc": "Auto-added datasheet for offline use.",
+    "category": "Components",
+    "files": {
+      "SN74HC563": {
+        "pdf": "sn74hc563.pdf"
+      }
+    }
+  },
+  "SN74HC594": {
+    "desc": "Auto-added datasheet for offline use.",
+    "category": "Components",
+    "files": {
+      "SN74HC594": {
+        "pdf": "sn74hc594.pdf"
+      }
+    }
+  },
+  "SN74HC623": {
+    "desc": "Auto-added datasheet for offline use.",
+    "category": "Components",
+    "files": {
+      "SN74HC623": {
+        "pdf": "sn74hc623.pdf"
+      }
+    }
+  },
+  "SN74HC640": {
+    "desc": "Auto-added datasheet for offline use.",
+    "category": "Components",
+    "files": {
+      "SN74HC640": {
+        "pdf": "sn74hc640.pdf"
+      }
+    }
+  },
+  "SN74HC645": {
+    "desc": "Auto-added datasheet for offline use.",
+    "category": "Components",
+    "files": {
+      "SN74HC645": {
+        "pdf": "sn74hc645.pdf"
+      }
+    }
+  },
+  "SN74HC646": {
+    "desc": "Auto-added datasheet for offline use.",
+    "category": "Components",
+    "files": {
+      "SN74HC646": {
+        "pdf": "sn74hc646.pdf"
+      }
+    }
+  },
+  "SN74HC652": {
+    "desc": "Auto-added datasheet for offline use.",
+    "category": "Components",
+    "files": {
+      "SN74HC652": {
+        "pdf": "sn74hc652.pdf"
+      }
+    }
+  },
+  "SN74HC682": {
+    "desc": "Auto-added datasheet for offline use.",
+    "category": "Components",
+    "files": {
+      "SN74HC682": {
+        "pdf": "sn74hc682.pdf"
+      }
+    }
+  },
+  "SN74HC684": {
+    "desc": "Auto-added datasheet for offline use.",
+    "category": "Components",
+    "files": {
+      "SN74HC684": {
+        "pdf": "sn74hc684.pdf"
+      }
+    }
+  },
+  "SN74HC4020": {
+    "desc": "Auto-added datasheet for offline use.",
+    "category": "Components",
+    "files": {
+      "SN74HC4020": {
+        "pdf": "sn74hc4020.pdf"
+      }
+    }
+  },
+  "SN74HC4851": {
+    "desc": "Auto-added datasheet for offline use.",
+    "category": "Components",
+    "files": {
+      "SN74HC4851": {
+        "pdf": "sn74hc4851.pdf"
+      }
+    }
+  },
+  "SN74HC4852": {
+    "desc": "Auto-added datasheet for offline use.",
+    "category": "Components",
+    "files": {
+      "SN74HC4852": {
+        "pdf": "sn74hc4852.pdf"
+      }
+    }
+  },
+  "SN74HC7001": {
+    "desc": "Auto-added datasheet for offline use.",
+    "category": "Components",
+    "files": {
+      "SN74HC7001": {
+        "pdf": "sn74hc7001.pdf"
+      }
+    }
+  },
+  "SN74HC7002": {
+    "desc": "Auto-added datasheet for offline use.",
+    "category": "Components",
+    "files": {
+      "SN74HC7002": {
+        "pdf": "sn74hc7002.pdf"
+      }
+    }
+  },
+  "SN74HC7032": {
+    "desc": "Auto-added datasheet for offline use.",
+    "category": "Components",
+    "files": {
+      "SN74HC7032": {
+        "pdf": "sn74hc7032.pdf"
+      }
+    }
+  },
+  "SN74HCT00": {
+    "desc": "Auto-added datasheet for offline use.",
+    "category": "Components",
+    "files": {
+      "SN74HCT00": {
+        "pdf": "sn74hct00.pdf"
+      }
+    }
+  },
+  "SN74HCT02": {
+    "desc": "Auto-added datasheet for offline use.",
+    "category": "Components",
+    "files": {
+      "SN74HCT02": {
+        "pdf": "sn74hct02.pdf"
+      }
+    }
+  },
+  "SN74HCT04": {
+    "desc": "Auto-added datasheet for offline use.",
+    "category": "Components",
+    "files": {
+      "SN74HCT04": {
+        "pdf": "sn74hct04.pdf"
+      }
+    }
+  },
+  "SN74HCT08": {
+    "desc": "Auto-added datasheet for offline use.",
+    "category": "Components",
+    "files": {
+      "SN74HCT08": {
+        "pdf": "sn74hct08.pdf"
+      }
+    }
+  },
+  "SN74HCT14": {
+    "desc": "Auto-added datasheet for offline use.",
+    "category": "Components",
+    "files": {
+      "SN74HCT14": {
+        "pdf": "sn74hct14.pdf"
+      }
+    }
+  },
+  "SN74HCT32": {
+    "desc": "Auto-added datasheet for offline use.",
+    "category": "Components",
+    "files": {
+      "SN74HCT32": {
+        "pdf": "sn74hct32.pdf"
+      }
+    }
+  },
+  "SN74HCT74": {
+    "desc": "Auto-added datasheet for offline use.",
+    "category": "Components",
+    "files": {
+      "SN74HCT74": {
+        "pdf": "sn74hct74.pdf"
+      }
+    }
+  },
+  "SN74HCT125": {
+    "desc": "Auto-added datasheet for offline use.",
+    "category": "Components",
+    "files": {
+      "SN74HCT125": {
+        "pdf": "sn74hct125.pdf"
+      }
+    }
+  },
+  "SN74HCT138": {
+    "desc": "Auto-added datasheet for offline use.",
+    "category": "Components",
+    "files": {
+      "SN74HCT138": {
+        "pdf": "sn74hct138.pdf"
+      }
+    }
+  },
+  "SN74HCT139": {
+    "desc": "Auto-added datasheet for offline use.",
+    "category": "Components",
+    "files": {
+      "SN74HCT139": {
+        "pdf": "sn74hct139.pdf"
+      }
+    }
+  },
+  "SN74HCT157": {
+    "desc": "Auto-added datasheet for offline use.",
+    "category": "Components",
+    "files": {
+      "SN74HCT157": {
+        "pdf": "sn74hct157.pdf"
+      }
+    }
+  },
+  "SN74HCT165": {
+    "desc": "Auto-added datasheet for offline use.",
+    "category": "Components",
+    "files": {
+      "SN74HCT165": {
+        "pdf": "sn74hct165.pdf"
+      }
+    }
+  },
+  "SN74HCT240": {
+    "desc": "Auto-added datasheet for offline use.",
+    "category": "Components",
+    "files": {
+      "SN74HCT240": {
+        "pdf": "sn74hct240.pdf"
+      }
+    }
+  },
+  "SN74HCT244": {
+    "desc": "Auto-added datasheet for offline use.",
+    "category": "Components",
+    "files": {
+      "SN74HCT244": {
+        "pdf": "sn74hct244.pdf"
+      }
+    }
+  },
+  "SN74HCT245": {
+    "desc": "Auto-added datasheet for offline use.",
+    "category": "Components",
+    "files": {
+      "SN74HCT245": {
+        "pdf": "sn74hct245.pdf"
+      }
+    }
+  },
+  "SN74HCT257": {
+    "desc": "Auto-added datasheet for offline use.",
+    "category": "Components",
+    "files": {
+      "SN74HCT257": {
+        "pdf": "sn74hct257.pdf"
+      }
+    }
+  },
+  "SN74HCT273": {
+    "desc": "Auto-added datasheet for offline use.",
+    "category": "Components",
+    "files": {
+      "SN74HCT273": {
+        "pdf": "sn74hct273.pdf"
+      }
+    }
+  },
+  "SN74HCT373": {
+    "desc": "Auto-added datasheet for offline use.",
+    "category": "Components",
+    "files": {
+      "SN74HCT373": {
+        "pdf": "sn74hct373.pdf"
+      }
+    }
+  },
+  "SN74HCT374": {
+    "desc": "Auto-added datasheet for offline use.",
+    "category": "Components",
+    "files": {
+      "SN74HCT374": {
+        "pdf": "sn74hct374.pdf"
+      }
+    }
+  },
+  "SN74HCT377": {
+    "desc": "Auto-added datasheet for offline use.",
+    "category": "Components",
+    "files": {
+      "SN74HCT377": {
+        "pdf": "sn74hct377.pdf"
+      }
+    }
+  },
+  "SN74HCT540": {
+    "desc": "Auto-added datasheet for offline use.",
+    "category": "Components",
+    "files": {
+      "SN74HCT540": {
+        "pdf": "sn74hct540.pdf"
+      }
+    }
+  },
+  "SN74HCT541": {
+    "desc": "Auto-added datasheet for offline use.",
+    "category": "Components",
+    "files": {
+      "SN74HCT541": {
+        "pdf": "sn74hct541.pdf"
+      }
+    }
+  },
+  "SN74HCT573": {
+    "desc": "Auto-added datasheet for offline use.",
+    "category": "Components",
+    "files": {
+      "SN74HCT573": {
+        "pdf": "sn74hct573.pdf"
+      }
+    }
+  },
+  "SN74HCT574": {
+    "desc": "Auto-added datasheet for offline use.",
+    "category": "Components",
+    "files": {
+      "SN74HCT574": {
+        "pdf": "sn74hct574.pdf"
+      }
+    }
+  },
+  "SN74HCT595": {
+    "desc": "Auto-added datasheet for offline use.",
+    "category": "Components",
+    "files": {
+      "SN74HCT595": {
+        "pdf": "sn74hct595.pdf"
+      }
+    }
+  },
+  "SN74HCT623": {
+    "desc": "Auto-added datasheet for offline use.",
+    "category": "Components",
+    "files": {
+      "SN74HCT623": {
+        "pdf": "sn74hct623.pdf"
+      }
+    }
+  },
+  "SN74HCT645": {
+    "desc": "Auto-added datasheet for offline use.",
+    "category": "Components",
+    "files": {
+      "SN74HCT645": {
+        "pdf": "sn74hct645.pdf"
+      }
+    }
+  },
+  "SN74HCT646": {
+    "desc": "Auto-added datasheet for offline use.",
+    "category": "Components",
+    "files": {
+      "SN74HCT646": {
+        "pdf": "sn74hct646.pdf"
+      }
+    }
+  },
+  "SN74HCT652": {
+    "desc": "Auto-added datasheet for offline use.",
+    "category": "Components",
+    "files": {
+      "SN74HCT652": {
+        "pdf": "sn74hct652.pdf"
+      }
+    }
+  },
+  "SN74LVC1404": {
+    "desc": "Auto-added datasheet for offline use.",
+    "category": "Components",
+    "files": {
+      "SN74LVC1404": {
+        "pdf": "sn74lvc1404.pdf"
+      }
+    }
+  },
+  "SN74AHC00": {
+    "desc": "Auto-added datasheet for offline use.",
+    "category": "Components",
+    "files": {
+      "SN74AHC00": {
+        "pdf": "sn74ahc00.pdf"
+      }
+    }
+  },
+  "SN74AHC02": {
+    "desc": "Auto-added datasheet for offline use.",
+    "category": "Components",
+    "files": {
+      "SN74AHC02": {
+        "pdf": "sn74ahc02.pdf"
+      }
+    }
+  },
+  "SN74AHC04": {
+    "desc": "Auto-added datasheet for offline use.",
+    "category": "Components",
+    "files": {
+      "SN74AHC04": {
+        "pdf": "sn74ahc04.pdf"
+      }
+    }
+  },
+  "SN74AHC05": {
+    "desc": "Auto-added datasheet for offline use.",
+    "category": "Components",
+    "files": {
+      "SN74AHC05": {
+        "pdf": "sn74ahc05.pdf"
+      }
+    }
+  },
+  "SN74AHC08": {
+    "desc": "Auto-added datasheet for offline use.",
+    "category": "Components",
+    "files": {
+      "SN74AHC08": {
+        "pdf": "sn74ahc08.pdf"
+      }
+    }
+  },
+  "SN74AHC14": {
+    "desc": "Auto-added datasheet for offline use.",
+    "category": "Components",
+    "files": {
+      "SN74AHC14": {
+        "pdf": "sn74ahc14.pdf"
+      }
+    }
+  },
+  "SN74AHC32": {
+    "desc": "Auto-added datasheet for offline use.",
+    "category": "Components",
+    "files": {
+      "SN74AHC32": {
+        "pdf": "sn74ahc32.pdf"
+      }
+    }
+  },
+  "SN74AHC74": {
+    "desc": "Auto-added datasheet for offline use.",
+    "category": "Components",
+    "files": {
+      "SN74AHC74": {
+        "pdf": "sn74ahc74.pdf"
+      }
+    }
+  },
+  "SN74AHC86": {
+    "desc": "Auto-added datasheet for offline use.",
+    "category": "Components",
+    "files": {
+      "SN74AHC86": {
+        "pdf": "sn74ahc86.pdf"
+      }
+    }
+  },
+  "SN74AHC125": {
+    "desc": "Auto-added datasheet for offline use.",
+    "category": "Components",
+    "files": {
+      "SN74AHC125": {
+        "pdf": "sn74ahc125.pdf"
+      }
+    }
+  },
+  "SN74AHC126": {
+    "desc": "Auto-added datasheet for offline use.",
+    "category": "Components",
+    "files": {
+      "SN74AHC126": {
+        "pdf": "sn74ahc126.pdf"
+      }
+    }
+  },
+  "SN74AHC132": {
+    "desc": "Auto-added datasheet for offline use.",
+    "category": "Components",
+    "files": {
+      "SN74AHC132": {
+        "pdf": "sn74ahc132.pdf"
+      }
+    }
+  },
+  "SN74AHC138": {
+    "desc": "Auto-added datasheet for offline use.",
+    "category": "Components",
+    "files": {
+      "SN74AHC138": {
+        "pdf": "sn74ahc138.pdf"
+      }
+    }
+  },
+  "SN74AHC139": {
+    "desc": "Auto-added datasheet for offline use.",
+    "category": "Components",
+    "files": {
+      "SN74AHC139": {
+        "pdf": "sn74ahc139.pdf"
+      }
+    }
+  },
+  "SN74AHC157": {
+    "desc": "Auto-added datasheet for offline use.",
+    "category": "Components",
+    "files": {
+      "SN74AHC157": {
+        "pdf": "sn74ahc157.pdf"
+      }
+    }
+  },
+  "SN74AHC158": {
+    "desc": "Auto-added datasheet for offline use.",
+    "category": "Components",
+    "files": {
+      "SN74AHC158": {
+        "pdf": "sn74ahc158.pdf"
+      }
+    }
+  },
+  "SN74AHC164": {
+    "desc": "Auto-added datasheet for offline use.",
+    "category": "Components",
+    "files": {
+      "SN74AHC164": {
+        "pdf": "sn74ahc164.pdf"
+      }
+    }
+  },
+  "SN74AHC165": {
+    "desc": "Auto-added datasheet for offline use.",
+    "category": "Components",
+    "files": {
+      "SN74AHC165": {
+        "pdf": "sn74ahc165.pdf"
+      }
+    }
+  },
+  "SN74AHC174": {
+    "desc": "Auto-added datasheet for offline use.",
+    "category": "Components",
+    "files": {
+      "SN74AHC174": {
+        "pdf": "sn74ahc174.pdf"
+      }
+    }
+  },
+  "SN74AHC238": {
+    "desc": "Auto-added datasheet for offline use.",
+    "category": "Components",
+    "files": {
+      "SN74AHC238": {
+        "pdf": "sn74ahc238.pdf"
+      }
+    }
+  },
+  "SN74AHC240": {
+    "desc": "Auto-added datasheet for offline use.",
+    "category": "Components",
+    "files": {
+      "SN74AHC240": {
+        "pdf": "sn74ahc240.pdf"
+      }
+    }
+  },
+  "SN74AHC244": {
+    "desc": "Auto-added datasheet for offline use.",
+    "category": "Components",
+    "files": {
+      "SN74AHC244": {
+        "pdf": "sn74ahc244.pdf"
+      }
+    }
+  },
+  "SN74AHC245": {
+    "desc": "Auto-added datasheet for offline use.",
+    "category": "Components",
+    "files": {
+      "SN74AHC245": {
+        "pdf": "sn74ahc245.pdf"
+      }
+    }
+  },
+  "SN74AHC257": {
+    "desc": "Auto-added datasheet for offline use.",
+    "category": "Components",
+    "files": {
+      "SN74AHC257": {
+        "pdf": "sn74ahc257.pdf"
+      }
+    }
+  },
+  "SN74AHC273": {
+    "desc": "Auto-added datasheet for offline use.",
+    "category": "Components",
+    "files": {
+      "SN74AHC273": {
+        "pdf": "sn74ahc273.pdf"
+      }
+    }
+  },
+  "SN74AHC367": {
+    "desc": "Auto-added datasheet for offline use.",
+    "category": "Components",
+    "files": {
+      "SN74AHC367": {
+        "pdf": "sn74ahc367.pdf"
+      }
+    }
+  },
+  "SN74AHC373": {
+    "desc": "Auto-added datasheet for offline use.",
+    "category": "Components",
+    "files": {
+      "SN74AHC373": {
+        "pdf": "sn74ahc373.pdf"
+      }
+    }
+  },
+  "SN74AHC374": {
+    "desc": "Auto-added datasheet for offline use.",
+    "category": "Components",
+    "files": {
+      "SN74AHC374": {
+        "pdf": "sn74ahc374.pdf"
+      }
+    }
+  },
+  "SN74AHC540": {
+    "desc": "Auto-added datasheet for offline use.",
+    "category": "Components",
+    "files": {
+      "SN74AHC540": {
+        "pdf": "sn74ahc540.pdf"
+      }
+    }
+  },
+  "SN74AHC541": {
+    "desc": "Auto-added datasheet for offline use.",
+    "category": "Components",
+    "files": {
+      "SN74AHC541": {
+        "pdf": "sn74ahc541.pdf"
+      }
+    }
+  },
+  "SN74AHC573": {
+    "desc": "Auto-added datasheet for offline use.",
+    "category": "Components",
+    "files": {
+      "SN74AHC573": {
+        "pdf": "sn74ahc573.pdf"
+      }
+    }
+  },
+  "SN74AHC574": {
+    "desc": "Auto-added datasheet for offline use.",
+    "category": "Components",
+    "files": {
+      "SN74AHC574": {
+        "pdf": "sn74ahc574.pdf"
+      }
+    }
+  },
+  "SN74AHC594": {
+    "desc": "Auto-added datasheet for offline use.",
+    "category": "Components",
+    "files": {
+      "SN74AHC594": {
+        "pdf": "sn74ahc594.pdf"
+      }
+    }
+  },
+  "SN74AHC595": {
+    "desc": "Auto-added datasheet for offline use.",
+    "category": "Components",
+    "files": {
+      "SN74AHC595": {
+        "pdf": "sn74ahc595.pdf"
+      }
+    }
+  },
+  "SN74AHC4066": {
+    "desc": "Auto-added datasheet for offline use.",
+    "category": "Components",
+    "files": {
+      "SN74AHC4066": {
+        "pdf": "sn74ahc4066.pdf"
+      }
+    }
+  },
+  "SN74AHC8541": {
+    "desc": "Auto-added datasheet for offline use.",
+    "category": "Components",
+    "files": {
+      "SN74AHC8541": {
+        "pdf": "sn74ahc8541.pdf"
+      }
+    }
+  },
+  "SN74AHCT00": {
+    "desc": "Auto-added datasheet for offline use.",
+    "category": "Components",
+    "files": {
+      "SN74AHCT00": {
+        "pdf": "sn74ahct00.pdf"
+      }
+    }
+  },
+  "SN74AHCT02": {
+    "desc": "Auto-added datasheet for offline use.",
+    "category": "Components",
+    "files": {
+      "SN74AHCT02": {
+        "pdf": "sn74ahct02.pdf"
+      }
+    }
+  },
+  "SN74AHCT04": {
+    "desc": "Auto-added datasheet for offline use.",
+    "category": "Components",
+    "files": {
+      "SN74AHCT04": {
+        "pdf": "sn74ahct04.pdf"
+      }
+    }
+  },
+  "SN74AHCT08": {
+    "desc": "Auto-added datasheet for offline use.",
+    "category": "Components",
+    "files": {
+      "SN74AHCT08": {
+        "pdf": "sn74ahct08.pdf"
+      }
+    }
+  },
+  "SN74AHCT14": {
+    "desc": "Auto-added datasheet for offline use.",
+    "category": "Components",
+    "files": {
+      "SN74AHCT14": {
+        "pdf": "sn74ahct14.pdf"
+      }
+    }
+  },
+  "SN74AHCT32": {
+    "desc": "Auto-added datasheet for offline use.",
+    "category": "Components",
+    "files": {
+      "SN74AHCT32": {
+        "pdf": "sn74ahct32.pdf"
+      }
+    }
+  },
+  "SN74AHCT74": {
+    "desc": "Auto-added datasheet for offline use.",
+    "category": "Components",
+    "files": {
+      "SN74AHCT74": {
+        "pdf": "sn74ahct74.pdf"
+      }
+    }
+  },
+  "SN74AHCT86": {
+    "desc": "Auto-added datasheet for offline use.",
+    "category": "Components",
+    "files": {
+      "SN74AHCT86": {
+        "pdf": "sn74ahct86.pdf"
+      }
+    }
+  },
+  "SN74AHCT125": {
+    "desc": "Auto-added datasheet for offline use.",
+    "category": "Components",
+    "files": {
+      "SN74AHCT125": {
+        "pdf": "sn74ahct125.pdf"
+      }
+    }
+  },
+  "SN74AHCT126": {
+    "desc": "Auto-added datasheet for offline use.",
+    "category": "Components",
+    "files": {
+      "SN74AHCT126": {
+        "pdf": "sn74ahct126.pdf"
+      }
+    }
+  },
+  "SN74AHCT132": {
+    "desc": "Auto-added datasheet for offline use.",
+    "category": "Components",
+    "files": {
+      "SN74AHCT132": {
+        "pdf": "sn74ahct132.pdf"
+      }
+    }
   }
 }
